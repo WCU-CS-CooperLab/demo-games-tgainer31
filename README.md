@@ -8,3 +8,4 @@ A template repository to publish games
 5. [Space Rocks Main, Bullet scenes sep 11](spacerocks_bullets_main_scene_sep_11/)
 6. [Space Rocks Main, Bullet, Rocks, Explosions, Hud scenes sep 13](spacerocks_main_bullets_rocks_explosions_hud_9_13/)
 7. [Space Rocks UI, Ending, Collisions sep 19](spacerocks_ui_ending_collisions_sep_19/)
+8. [Space Score sep 19](spacerocks_score_sep_19/)
