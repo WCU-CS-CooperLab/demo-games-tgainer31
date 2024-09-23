@@ -12,4 +12,5 @@ A template repository to publish games
 9. [DEMO #1](Taz's_Treat_Hunt_DEMO#1/)
 10. [DEMO #2](Taz's_Treat_Hunt_DEMO#2/)
 11. [Project 1, Taz's Treat Hunt](Project_1_Taz's_Treat_Hunt/)
+12. [Project 1, Taz's Treat Hunt- Rev 1](Project_1_Rev_1_Taz's_Treat_Hunt/)
 
