@@ -9,7 +9,7 @@ A template repository to publish games
 6. [Space Rocks Main, Bullet, Rocks, Explosions, Hud scenes sep 13](spacerocks_main_bullets_rocks_explosions_hud_9_13/)
 7. [Space Rocks UI, Ending, Collisions sep 19](spacerocks_ui_ending_collisions_sep_19/)
 8. [Space Score sep 19](spacerocks_score_sep_19/)
-9. [DEMO #1](Taz's_Treat_Hunt_DEMO#1/)
-10. [DEMO #2](Taz's_Treat_Hunt_DEMO#2/)
+9. [Project 1, DEMO #1](Taz's_Treat_Hunt_DEMO#1/)
+10. [Project 1, DEMO #2](Taz's_Treat_Hunt_DEMO#2/)
 11. [Project 1, Taz's Treat Hunt](Project_1_Taz's_Treat_Hunt/)
 
